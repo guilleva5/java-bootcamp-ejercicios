@@ -1,0 +1,2 @@
+LIBRO,1,el quijote,cervantes,prestado
+proyectos.Revista, 2,marca,marcaç,disponible

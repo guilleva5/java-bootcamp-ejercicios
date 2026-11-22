@@ -1,0 +1,2 @@
+PELICULA,scary movie,1999,9.0,jon
+SERIE,stranger,2010,9.0,4

@@ -1,4 +1,4 @@
-package Bootcamp;
+package bootcamp;
 
 public class Dia6_Ejercicio1_ArrayProductos {
     public static void main(String[] args) {

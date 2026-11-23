@@ -1,4 +1,4 @@
-package Bootcamp;
+package bootcamp;
 
 public class Dia6_Proyecto_Final_SistemaEmpleados {
     public static void main(String[] args) {

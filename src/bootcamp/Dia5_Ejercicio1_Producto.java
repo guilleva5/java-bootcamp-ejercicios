@@ -1,4 +1,4 @@
-package Bootcamp;
+package bootcamp;
 
 class Producto {
     private String nombre;

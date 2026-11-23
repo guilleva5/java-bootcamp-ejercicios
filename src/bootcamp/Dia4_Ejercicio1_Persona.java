@@ -1,4 +1,4 @@
-package Bootcamp;
+package bootcamp;
 
 public class Dia4_Ejercicio1_Persona {
     public static void main(String[] args) {

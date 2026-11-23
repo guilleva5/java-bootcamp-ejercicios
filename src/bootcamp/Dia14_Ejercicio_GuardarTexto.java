@@ -1,4 +1,4 @@
-package Bootcamp;
+package bootcamp;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

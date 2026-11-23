@@ -1,4 +1,4 @@
-package Bootcamp;
+package bootcamp;
 
 class EmpleadoBase {
     protected  String nombre;
